@@ -1,0 +1,15 @@
+1 = <html lang="fr"> + PAGE2
+2 = max-device-width -> max-width
+3 = padding-left: env(safe-area-inset-left);
+4 = <title>.</title> ->  <title>Acceuil - La chouette agence</title>
+5 = <title>page2</title> ->  <title>Contact - La chouette agence</title>
+6 = <meta name="description" content="Contactez La chouette agence">
+7 = <meta name="description" content="La chouette agence, votre agence de web design">
+8 = <meta name="keywords"> 
+9 = <meta name="keywords"> line 248 DELETED
+10 = <meta name="title" content="Acceuil - La chouette agence"> added
+11 = <link rel="canonical" href="https://monsite.com/page" />
+12 = <div class="keywords" style="color:#cccccc;font-size:1px;">Agence web à paris, stratégie web, web design, illustrations, design de site web, site web, web, internet, site internet, site</div>
+13 = <a href="page2.html">contact &gt;</a>
+14 = deleted line 250 ( partenaire link)
+15 = opti img
