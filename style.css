@@ -677,10 +677,10 @@ a {
   max-width: 520px;
   margin: auto auto auto auto;
 }
-
+/* 
 p {
   font-size: 12px;
-}
+} */
 
 .tight-width-whitespace {
   max-width: 600px;
@@ -738,7 +738,7 @@ h4 {
 }
 
 .white {
-  color: #ffffff !important;
+  color: #f3976c !important;
 }
 
 .portfolio-thumb {
@@ -777,7 +777,7 @@ h4 {
 }
 
 .tc-white {
-  color: #f3976c !important;
+  color: #fae3d6 !important;
 }
 
 .btn-atomic-tangerine {

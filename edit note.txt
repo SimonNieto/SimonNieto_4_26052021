@@ -13,3 +13,4 @@
 13 = <a href="page2.html">contact &gt;</a>
 14 = deleted line 250 ( partenaire link)
 15 = opti img
+16 = font-size changed to 12
